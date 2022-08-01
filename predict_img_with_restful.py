@@ -6,7 +6,6 @@ prediction_key = "YOUR_CUSTOM_VISION_KEY"
 project_id = "YOUR_PROJECT_ID_INSETTING"
 iteration_name = "YOUR_MODEUL_PUBLISH_AS"
 
-
 headers = {
     "Prediction-Key": prediction_key,
     "Content-Type": "application/octet-stream"
